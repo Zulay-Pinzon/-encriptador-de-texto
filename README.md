@@ -7,6 +7,7 @@ Durante cuatro semanas, estuve trabajando en una aplicación web que encripta te
 
 
 Descripción del Proyecto
+
 La aplicación permite encriptar y desencriptar textos utilizando un sistema de reemplazo basado en las siguientes "llaves" de encriptación:
 
 
