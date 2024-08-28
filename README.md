@@ -1,10 +1,14 @@
 Desafío de Encriptador de Texto
+
 ¡Bienvenido a mi primer desafío!
+
 
 Durante cuatro semanas, estuve trabajando en una aplicación web que encripta textos para que puedas intercambiar mensajes secretos con otras personas que conozcan el secreto de la encriptación utilizada.
 
+
 Descripción del Proyecto
 La aplicación permite encriptar y desencriptar textos utilizando un sistema de reemplazo basado en las siguientes "llaves" de encriptación:
+
 
 La letra "e" se convierte en "enter"
 La letra "i" se convierte en "imes"
